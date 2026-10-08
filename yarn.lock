@@ -4077,10 +4077,10 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@babel/runtime@npm:8.0.0-beta.0":
-  version: 8.0.0-beta.0
-  resolution: "@babel/runtime@npm:8.0.0-beta.0"
-  checksum: 10/c849f34d0b6014b09027b6225c3644329e5205a85c010a6f94258d9546b4d7aa267582a4671c844b10c21a902de7599fc21304f577abf6e9579e76e491c978d5
+"@babel/runtime@npm:8.0.7":
+  version: 8.0.7
+  resolution: "@babel/runtime@npm:8.0.7"
+  checksum: 10/15115d723357540b434a8ecdf8e8f6ab142f57feca7e3d758e1fb634833eba1ae89a1db2e9988c23b68eef655c6f36cc2dff9b9139f4cba56416e39d2e76a37f
   languageName: node
   linkType: hard
 
@@ -7518,7 +7518,7 @@ __metadata:
     "@babel/plugin-transform-runtime": "npm:8.0.0-beta.0"
     "@babel/preset-env": "npm:8.0.0-beta.0"
     "@babel/preset-typescript": "npm:8.0.0-beta.0"
-    "@babel/runtime": "npm:8.0.0-beta.0"
+    "@babel/runtime": "npm:8.0.7"
     "@cspotcode/source-map-support": "npm:^0.8.1"
     "@eslint/js": "npm:^9.22.0"
     "@rollup/plugin-babel": "npm:^6.0.4"
