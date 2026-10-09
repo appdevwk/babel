@@ -7533,7 +7533,7 @@ __metadata:
     babel-plugin-transform-charcodes: "npm:^0.2.0"
     c8: "npm:^10.0.0"
     charcodes: "npm:^0.2.0"
-    core-js: "npm:^3.36.1"
+    core-js: "npm:3.50.0"
     eslint: "npm:^9.22.0"
     eslint-config-prettier: "npm:^9.1.0"
     eslint-formatter-codeframe: "npm:^7.32.1"
@@ -8669,6 +8669,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"core-js@npm:3.50.0":
+  version: 3.50.0
+  resolution: "core-js@npm:3.50.0"
+  checksum: 10/9690bd111d8500437e65b365ec0dbe8d8899e99e877452d142c72bfbf272bd6edbf38ec9c2da8fa88d9186bba9246309bff68cedd2a6c43a3bf0748625e0e092
+  languageName: node
+  linkType: hard
+
 "core-js@npm:^2.6.12":
   version: 2.6.12
   resolution: "core-js@npm:2.6.12"
@@ -8676,7 +8683,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"core-js@npm:^3.30.2, core-js@npm:^3.35.0, core-js@npm:^3.36.1":
+"core-js@npm:^3.30.2, core-js@npm:^3.35.0":
   version: 3.36.1
   resolution: "core-js@npm:3.36.1"
   checksum: 10/ce1e1bfc1034b6f2ff7c91077319e8abdd650ee606ffe6e80073e64ab9d8aad2d6a6d953461b01f331a6f796ad2fd766a3386b88aa371b45d44fa7c0b9913ce6
