@@ -7451,15 +7451,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"babel-plugin-transform-charcodes@npm:^0.2.0":
-  version: 0.2.0
-  resolution: "babel-plugin-transform-charcodes@npm:0.2.0"
+"babel-plugin-transform-charcodes@npm:0.2.1":
+  version: 0.2.1
+  resolution: "babel-plugin-transform-charcodes@npm:0.2.1"
   dependencies:
     "@babel/parser": "npm:^7.0.0"
     "@babel/traverse": "npm:^7.0.0"
   peerDependencies:
     charcodes: ^0.2.0
-  checksum: 10/d05343071164a3bb9271998730042b049ada9ed6eac3f4ae43729454a09d0366fca548c64aca69d7b3d45c34a545d001c256379999922567f74e1bb8eab43715
+  checksum: 10/9b977e5fa7be10f91ea5b6e4a6a6efde4b5d9e39e74c014cb0dea6a9713feaefc42658720ceb87a931bfc9ff09263801cb8af3eb0a76b4e61ede9d1d1aa94f0c
   languageName: node
   linkType: hard
 
@@ -7530,9 +7530,9 @@ __metadata:
     "@types/jest": "npm:^29.5.11"
     "@types/node": "npm:^22.10.5"
     "@yarnpkg/types": "npm:^4.0.0"
-    babel-plugin-transform-charcodes: "npm:^0.2.0"
+    babel-plugin-transform-charcodes: "npm:0.2.1"
     c8: "npm:^10.0.0"
-    charcodes: "npm:^0.2.0"
+    charcodes: "npm:0.2.1"
     core-js: "npm:^3.36.1"
     eslint: "npm:^9.22.0"
     eslint-config-prettier: "npm:^9.1.0"
@@ -8189,6 +8189,13 @@ __metadata:
   version: 1.0.2
   resolution: "char-regex@npm:1.0.2"
   checksum: 10/1ec5c2906adb9f84e7f6732a40baef05d7c85401b82ffcbc44b85fbd0f7a2b0c2a96f2eb9cf55cae3235dc12d4023003b88f09bcae8be9ae894f52ed746f4d48
+  languageName: node
+  linkType: hard
+
+"charcodes@npm:0.2.1":
+  version: 0.2.1
+  resolution: "charcodes@npm:0.2.1"
+  checksum: 10/8d47b0dfe9829a908132ceaacc18aec07783c3f844700ff2fd5edc8f962f3223d47387c24ca4511f7ecc53df704b4e2c2a725adfdccd237e2678a760a3bdc4a3
   languageName: node
   linkType: hard
 
