@@ -7536,7 +7536,7 @@ __metadata:
     core-js: "npm:^3.36.1"
     eslint: "npm:^9.22.0"
     eslint-config-prettier: "npm:^9.1.0"
-    eslint-formatter-codeframe: "npm:^7.32.1"
+    eslint-formatter-codeframe: "npm:7.32.2"
     eslint-import-resolver-node: "npm:^0.3.9"
     eslint-plugin-import: "npm:^2.31.0"
     eslint-plugin-jest: "npm:^27.9.0"
@@ -9684,13 +9684,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-formatter-codeframe@npm:^7.32.1":
-  version: 7.32.1
-  resolution: "eslint-formatter-codeframe@npm:7.32.1"
+"eslint-formatter-codeframe@npm:7.32.2":
+  version: 7.32.2
+  resolution: "eslint-formatter-codeframe@npm:7.32.2"
   dependencies:
     "@babel/code-frame": "npm:7.12.11"
     chalk: "npm:^4.0.0"
-  checksum: 10/bf5b3137297bae8019ea6aaeafa9c48e0fc10d0b30de0b8d12f4920b46429350cbab5b0bd452d9f7267015e0c174d9f8d28ab04d33e6a4c7674003768b329741
+  checksum: 10/da1c240d949f91a3e2c1ec790dad9992bb859c87e00462cb6ef6aa6d35d47f8288a62af313d23cb17c06fff6489de37c95ad7b8fcbcc9f57fbdfc8779e21ad00
   languageName: node
   linkType: hard
 
